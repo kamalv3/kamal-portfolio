@@ -91,7 +91,7 @@ function App() {
             </p>
             <small>Python · OpenCV · YOLO11</small>
 <a
-              href={"https://" + "github.com/" + "kamalv3/smart-traffic-monitoring"}
+              href={`https${"://"}github.com/kamalv3/smart-traffic-monitoring`}
   target="_blank"
   rel="noreferrer"
   className="project-link"
@@ -108,7 +108,7 @@ function App() {
             </p>
             <small>Java · Spring Boot · MySQL</small>
 <a
-              href={"https://" + "github.com/" + "kamalv3/employee-management-system"}
+              href={`https${"://"}github.com/kamalv3/employee-management-system`}
   target="_blank"
   rel="noreferrer"
   className="project-link"
